@@ -1,8 +1,9 @@
-pip install opencv-python
-pip install keras-utils  
-pip install streamlit-webrtc
-pip install keras-models 
-pip install numpy 
-pip install mediapipe 
-pip install tensorflow
-pip install streamlit 
+opencv-python
+keras-utils
+streamlit-webrtc
+keras-models
+numpy
+mediapipe
+tensorflow
+streamlit
+--upgrade pip
